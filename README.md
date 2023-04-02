@@ -12,6 +12,6 @@
 
 ## Q2: Which year between 2000-2020 had the coolest average temperature?
 
-- 2000 has the lowest yearly average temperature from 2000 to 2020
+- 2010 has the lowest yearly average temperature from 2000 to 2020
 
 ![png](https://github.com/jiashenyue/weather-data-london-resampling/blob/main/PNG/avg_temp_yearly.png)
